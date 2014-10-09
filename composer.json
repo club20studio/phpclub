@@ -1,0 +1,17 @@
+"name": "PHPClub",
+"type": "application",
+"description": "A framework cum cms application",
+"keywords": ["framework","cms","cli", "php"],
+"homepage": "https://github.com/club20studio/phpclub",
+"license": "MIT",
+"authors": [
+{
+"name": "Harry",
+"email": "harry_club20@live.com",
+"homepage": "http://commingsoon.in",
+"role": "Developer"
+}
+],
+"require": {
+"php": ">=5.5.0"
+}
