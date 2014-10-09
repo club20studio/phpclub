@@ -1,6 +1,6 @@
 {
-"name": "PHPClub/phpclub-1",
-"type": "application",
+"name": "phpclub/phpclub-1",
+"type": "project",
 "description": "A framework cum cms application",
 "keywords": ["framework","cms","cli", "php"],
 "homepage": "https://github.com/club20studio/phpclub",
