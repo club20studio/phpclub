@@ -1,10 +1,10 @@
 {
-"name": "PHPClub",
+"name": "PHPClub/phpclub-1",
 "type": "application",
 "description": "A framework cum cms application",
 "keywords": ["framework","cms","cli", "php"],
 "homepage": "https://github.com/club20studio/phpclub",
-"license": "MIT",
+"license": "GNU-2",
 "authors": [
 {
 "name": "Harry",
